@@ -1,10 +1,9 @@
 package sample;
 
-public class BranchClass {
+public class MaterClass2 {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
-		
 
 	}
 
